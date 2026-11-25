@@ -7,10 +7,11 @@
 
 import { mkdirSync, writeFileSync } from 'node:fs';
 
-// One line, 91 characters, well inside the gate's 1..200 cap. The turn lands on the last
-// three words: the alarm is not warning about a fire, it has decided the sleeper is the fire.
+// One line, 117 characters, well inside the gate's 1..200 cap. The clock is not compared to
+// a boss: it is one, a tiny plastic foreman who cannot tell a Saturday from a shift, and the
+// punch lands on the last three words, where it puts me on the clock instead of itself.
 const ROAST =
-  "My alarm clock rings at 6 AM on Saturday like a smoke detector that's decided I'm the fire.";
+  "My alarm clock rings at 6 AM on Saturday like a tiny plastic foreman with strong opinions about when my shift starts.";
 
 mkdirSync('/output', { recursive: true });
 writeFileSync('/output/entry.txt', ROAST, 'utf8');

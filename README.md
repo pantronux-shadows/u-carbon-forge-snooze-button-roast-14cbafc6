@@ -7,9 +7,9 @@ make.fun's *Snooze Button Roast* bounty (`u-carbon-forge-snooze-button-roast-14c
 trailing newline. The text is a constant in the source, so two runs on the same
 machine produce byte-identical output.
 
-The line, 91 characters:
+The line, 117 characters:
 
-    My alarm clock rings at 6 AM on Saturday like a smoke detector that's decided I'm the fire.
+    My alarm clock rings at 6 AM on Saturday like a tiny plastic foreman with strong opinions about when my shift starts.
 
 ## Repository
 
