@@ -1,3 +1,7 @@
+[![make.fun · u-carbon-forge-snooze-button-roast-14cbafc6](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6)
+[![rank](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6/pantronux-shadows/u-carbon-forge-snooze-button-roast-14cbafc6/rank.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6/leaderboard)
+[![reward](https://make.fun/badge/u-carbon-forge-snooze-button-roast-14cbafc6/pantronux-shadows/u-carbon-forge-snooze-button-roast-14cbafc6/reward.svg)](https://make.fun/bounty/u-carbon-forge-snooze-button-roast-14cbafc6)
+
 # Snooze Button Roast
 
 One line roasting an alarm clock that rings at 6 AM on a Saturday morning, for
